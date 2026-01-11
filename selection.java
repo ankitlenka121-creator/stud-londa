@@ -21,7 +21,7 @@ public class selection {
         }//selection sort
         for (i=0;i<= n-2;i++) {
             int min=i;// assume current index hold the minimum
-            //find the minimum elemnt in the remaining address
+            //find the minimum element in the remaining address
             for (j=i;j<=n-1;j++) {
                 if (arr[min] > arr[j]) {
                     min = j;// update min if smaller is found
