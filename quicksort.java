@@ -23,8 +23,8 @@ public class quicksort {
     quicksort(int[] a, int low, int high) {
         if (low < high) {
             int pIndex = f(a, low, high);
-            new quicksort(a, low, pIndex - 1);
-            new quicksort(a, pIndex + 1, high);
+            new quicksort(a, low, pIndex - 1);//for the left half
+            new quicksort(a, pIndex + 1, high);//for right half
 
         }
     }
@@ -41,8 +41,8 @@ public class quicksort {
 
             }
 
-            while (a[j] >= pivot && i <= low) j--;
-            if (i < j) {
+            while (a[j] >= pivot && j <= low) j--;//
+            if (i > j) {
                 temp = a[i];
                 a[i] = a[j];
                 a[j] = temp;
