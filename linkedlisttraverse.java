@@ -11,13 +11,13 @@ class node{
     }
     node(int data1, node next1){
 
-        data=data1;
+        data=data1; //entering of middle node
 
         next=next1;
 
     }
     node(int data1){
-        data=data1;
+        data=data1;//entering the last node
         next=null;
     }
 
