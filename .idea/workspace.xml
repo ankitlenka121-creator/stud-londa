@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf0fbc73-11b3-4030-8d7c-290dc0f1a38f" name="Changes" comment="" />
+    <list default="true" id="cf0fbc73-11b3-4030-8d7c-290dc0f1a38f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/easy/src/checkingsort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/secondbrute.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/secondbrute.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.checkingsort.executor": "Run",
     "Application.largest.executor": "Run",
     "Application.secondbrute.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -49,7 +54,14 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.secondbrute">
+  <component name="RunManager" selected="Application.checkingsort">
+    <configuration name="checkingsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="checkingsort" />
+      <module name="easy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="largest" />
       <module name="easy" />
@@ -66,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.checkingsort" />
         <item itemvalue="Application.secondbrute" />
         <item itemvalue="Application.largest" />
       </list>

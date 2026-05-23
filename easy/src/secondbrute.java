@@ -3,11 +3,11 @@ import java.util.Scanner;
 
 public class secondbrute {
     public static void main(String[] args){
-        Scanner milf=new Scanner(System.in);
-        int i,n,largest, slargest = -1;
+            Scanner milf=new Scanner(System.in);
+            int i,n,largest, slargest = -1;
 
-        n=milf.nextInt();
-        int[] h=new int[n];
+             n=milf.nextInt();
+              int[] h=new int[n];
         for(i=0;i<n;i++){
             h[i]= milf.nextInt();
         }
