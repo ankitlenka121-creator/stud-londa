@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf0fbc73-11b3-4030-8d7c-290dc0f1a38f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/src/checkingsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/removeduplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/secondbrute.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/secondbrute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/checkingsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/checkingsort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,17 +36,19 @@
   "keyToString": {
     "Application.checkingsort.executor": "Run",
     "Application.largest.executor": "Run",
+    "Application.removeduplicate.executor": "Run",
     "Application.secondbrute.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/hp/IdeaProjects/arrayeasy/easy/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -54,7 +56,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.checkingsort">
+  <component name="RunManager" selected="Application.removeduplicate">
     <configuration name="checkingsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="checkingsort" />
       <module name="easy" />
@@ -69,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="removeduplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="removeduplicate" />
+      <module name="easy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="secondbrute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secondbrute" />
       <module name="easy" />
@@ -78,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.removeduplicate" />
         <item itemvalue="Application.checkingsort" />
         <item itemvalue="Application.secondbrute" />
         <item itemvalue="Application.largest" />
