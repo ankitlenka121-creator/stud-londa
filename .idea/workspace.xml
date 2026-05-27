@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf0fbc73-11b3-4030-8d7c-290dc0f1a38f" name="Changes" comment="" />
+    <list default="true" id="cf0fbc73-11b3-4030-8d7c-290dc0f1a38f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/easy/src/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leftrotationoneplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/removeduplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/removeduplicate.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +38,7 @@
   "keyToString": {
     "Application.checkingsort.executor": "Run",
     "Application.largest.executor": "Run",
+    "Application.leftrotationoneplace.executor": "Run",
     "Application.removeduplicate.executor": "Run",
     "Application.secondbrute.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -40,9 +47,9 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/hp/IdeaProjects/arrayeasy/easy/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "onboarding.tips.debug.path": "C:/Users/hp/IdeaProjects/arrayeasy/untitled/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   },
@@ -52,7 +59,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.removeduplicate">
+  <component name="RunManager" selected="Application.leftrotationoneplace">
     <configuration name="checkingsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="checkingsort" />
       <module name="easy" />
@@ -61,15 +68,22 @@
       </method>
     </configuration>
     <configuration name="largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="largest" />
-      <module name="easy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leftrotationoneplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leftrotationoneplace" />
+      <module name="arrayeasy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="removeduplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="removeduplicate" />
-      <module name="easy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,12 +95,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leftrotationoneplace" />
+        <item itemvalue="Application.largest" />
         <item itemvalue="Application.removeduplicate" />
         <item itemvalue="Application.checkingsort" />
         <item itemvalue="Application.secondbrute" />
-        <item itemvalue="Application.largest" />
       </list>
     </recent_temporary>
   </component>
