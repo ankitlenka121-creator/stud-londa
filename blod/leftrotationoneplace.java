@@ -20,7 +20,7 @@ public static void main(String[] args){
         u[n-1]=temp;
     System.out.println("new array");
     for(i=0;i<n;i++){
-        System.out.printgiy (u[i]+" ");
+        System.out.print (u[i]+" ");
 
 
     }
