@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf0fbc73-11b3-4030-8d7c-290dc0f1a38f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/blod/uniontwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blod/uniontwoarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blod/movezero.java" beforeDir="false" afterPath="$PROJECT_DIR$/blod/movezero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/blod/uniontwo.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -45,6 +49,8 @@
     "Application.movezero.executor": "Run",
     "Application.removeduplicate.executor": "Run",
     "Application.secondbrute.executor": "Run",
+    "Application.uniontwo.executor": "Run",
+    "Application.uniontwoarray.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -64,15 +70,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.movezero">
-    <configuration name="largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="25" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="largest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.uniontwoarray">
     <configuration name="leftrotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leftrotation" />
       <module name="arrayeasy" />
@@ -94,8 +92,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeduplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="removeduplicate" />
+    <configuration name="uniontwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uniontwo" />
+      <module name="arrayeasy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uniontwoarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uniontwoarray" />
+      <module name="arrayeasy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.uniontwoarray" />
+        <item itemvalue="Application.uniontwo" />
         <item itemvalue="Application.movezero" />
         <item itemvalue="Application.leftrotation" />
         <item itemvalue="Application.leftrotationoneplace" />
-        <item itemvalue="Application.largest" />
-        <item itemvalue="Application.removeduplicate" />
       </list>
     </recent_temporary>
   </component>
