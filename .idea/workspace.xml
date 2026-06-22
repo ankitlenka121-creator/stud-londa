@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf0fbc73-11b3-4030-8d7c-290dc0f1a38f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/blod/missingno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blod/movezero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blod/MAXONE.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MAXONE.executor": "Run",
     "Application.checkingsort.executor": "Run",
     "Application.largest.executor": "Run",
     "Application.leftrotation.executor": "Run",
@@ -62,11 +62,10 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.missingno">
-    <configuration name="largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="25" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="largest" />
+  <component name="RunManager" selected="Application.MAXONE">
+    <configuration name="MAXONE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MAXONE" />
+      <module name="arrayeasy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MAXONE" />
         <item itemvalue="Application.missingno" />
         <item itemvalue="Application.movezero" />
         <item itemvalue="Application.leftrotation" />
         <item itemvalue="Application.leftrotationoneplace" />
-        <item itemvalue="Application.largest" />
       </list>
     </recent_temporary>
   </component>
